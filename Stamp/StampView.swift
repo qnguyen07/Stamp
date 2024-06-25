@@ -8,10 +8,10 @@
 import SwiftUI
 struct StampView: View {
     func buttonPressed(){
-        print("odysseus")
+        print("bing")
     }
     func plusButton(){
-            print("homer")
+            print("bong")
     }
     var body: some View {
         NavigationStack{
